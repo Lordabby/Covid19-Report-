@@ -4,8 +4,8 @@
 # Problem Statement
 Top Five Countries with the Highest Confirmed Covid'19 Cases in the World.
 Bottom Five Countries with the Lowest Confirmed Covid'19 Cases in the World.
-What is the cumulative Monthly report of Covid'19 cases?
-What is the cumulative Yearly report of Covid'19 cases?
+What is the cumulative Monthly report of Covid'19 cases?.
+What is the cumulative Yearly report of Covid'19 cases?.
 
 -----
 
@@ -26,7 +26,7 @@ Lastly, three additional columns were inserted each for Year Values, Month value
 ------
 
 # Insight:
-The USA country has the highest confirmed cases with the death rate of 
+The USA country has the highest confirmed cases with the death rate of 9.44%.
 Korea North Country has the lowest Confirmed reported cases of covid'19.
 From the  Monthly cumulative reported cases, the Month of May has the Confirmed Covid'19 cases.
 From the  Yearly cumulative reported cases, 2022 has the highest Confirmed Covid'19 cases.
