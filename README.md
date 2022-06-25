@@ -1,4 +1,4 @@
-# Project Name: Covid19-Report-
+# Project Name: Covid19-Report
 
 -----
 # Problem Statement
